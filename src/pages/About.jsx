@@ -28,7 +28,7 @@ function About() {
     <section className="pb-12">
       <div className="w-[90%] max-w-[1200px] mx-auto">
         <img
-          src="public/img/background.jpg"
+          src="/img/background.jpg"
           alt="Mnemosyne's Restaurant Banner"
           className="block w-full h-auto"
         />
