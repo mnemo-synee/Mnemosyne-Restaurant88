@@ -5,42 +5,42 @@ const menuSections = [
       {
         name: "Lumpia",
         price: 120,
-        image: "public/img/lumpia.png",
+        image: "/img/lumpia.png",
         description:
           "Fried spring rolls with vegetables and sometimes meat or shrimp.",
       },
       {
         name: "Pancit Canton/Special Bihon",
         price: 195,
-        image: "public/img/bihon.png",
+        image: "/img/bihon.png",
         description:
           "Egg noodles or glass noodles stir fried with mixed vegetables, shrimps and meats.",
       },
       {
         name: "Chicken Siomai",
         price: 195,
-        image: "public/img/chicken shrimp.png",
+        image: "/img/chicken shrimp.png",
         description:
           "Steamed dumplings filled with chicken and vegetables.",
       },
       {
         name: "Cheese Sticks",
         price: 195,
-        image: "public/img/cheese sticks.png",
+        image: "/img/cheese sticks.png",
         description:
           "Deep-fried cheese wrapped in spring roll wrappers.",
       },
       {
         name: "Chicken Sisig",
         price: 195,
-        image: "public/img/sisig.png",
+        image: "/img/sisig.png",
         description:
           "Chooped chicken served on a sizzling plate, a popular Appetizer often made with halal certified chicken.",
       },
       {
         name: "Fish Balls",
         price: 195,
-        image: "public/img/fish ball.png",
+        image: "/img/fish ball.png",
         description:
           "Chooped chicken served on a sizzling plate, a popular Appetizer often made with halal certified chicken.",
       },
@@ -52,7 +52,7 @@ const menuSections = [
       {
         name: "Adobo",
         price: 250,
-        image: "public/img/adobo.png",
+        image: "/img/adobo.png",
         description:
           "Meat or seafood cooked in vinegar, soy sauce, garlic and bay leaves.",
       },
@@ -64,21 +64,21 @@ const menuSections = [
       {
         name: "Halo-Halo",
         price: 150,
-        image: "public/img/halo-halo.png",
+        image: "/img/halo-halo.png",
         description:
           "The ultimate, mixed-in-a cup dessert with shaved ice, evaporated milk, and toppings like sweetened beans, jellies, ube ice cream, and leche flan.",
       },
       {
         name: "Leche-Flan",
         price: 250,
-        image: "public/img/leche-flan.png",
+        image: "/img/leche-flan.png",
         description:
           "A rich, velvety egg yolk custard with a caramel syrup topping, ussually served in a llanera.",
       },
       {
         name: "Buko Pandan",
         price: 250,
-        image: "public/img/buko pandan.png",
+        image: "/img/buko pandan.png",
         description:
           "A refreshing dessert made with young coconut strips, pandan-flavored gelatin, and cream.",
       },
